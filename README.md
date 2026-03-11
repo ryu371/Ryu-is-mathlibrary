@@ -1,2 +1,2 @@
-pip install git+https://github.com/ryu371/Ryu-is-mathlib.git
+There is a zip file in the release, so please install it from there.
 import RyuEngine
