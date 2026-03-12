@@ -19,7 +19,8 @@ Go to GitHub.
 
 Search for ryu-is-mathlib.
 
-Download the ZIP file.
+open the release
+download yu-is-mathlib0.11
 
 How to import:
 
