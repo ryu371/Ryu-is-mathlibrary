@@ -28,6 +28,5 @@ Extract the ZIP file.
 
 Use import RyuEngine in your Python script.
 
-"""
+''' main.py
 import RyuEngine
-"""
