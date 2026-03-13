@@ -30,3 +30,6 @@ Use import RyuEngine in your Python script.
 
 ```main.py
 import RyuEngine
+print(RyuEngine.sin(45))
+#0.707......
+
